@@ -16,3 +16,12 @@ Editar usuario
 ⬇️⬇️⬇️
 
 ![image](https://github.com/sergi-espin/django_crud_MySQL/assets/132584932/8f6f3b7a-3b8e-4f38-84ca-041d793cf7a5)
+
+
+
+
+
+
+
+
+
